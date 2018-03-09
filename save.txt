@@ -1,0 +1,110 @@
+<table border="0" cellpadding="3" cellspacing="0" width="100%">
+                                                        <tr>
+                                                            <td class="repeaterDepartment" colspan="5">
+                                                                
+                                                                <input type="hidden" name="rpResults$ctl03$HFSchoolCode" id="rpResults_ctl03_HFSchoolCode" value="1">
+                                                            </td>
+                                                            <td class="repeaterDepartment" colspan="5">
+                                                                
+                                                                <input type="hidden" name="rpResults$ctl03$HFDeptCode" id="rpResults_ctl03_HFDeptCode" value="PHY">
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td class="repeaterHead" style="width: 10%;">CRN</td>
+                                                            <td class="repeaterHead" style="width: 10%;">Course</td>
+                                                            <td class="repeaterHead" width="50%" colspan="5">Course Title</td>
+                                                            <td class="repeaterHead" style="width: 10%;">Term</td>
+                                                            <td class="repeaterHead" style="width: 10%;">Credits</td>
+                                                            <td class="repeaterHead" style="width: 10%;">Status</td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td id="rpResults_ctl03_cellCRN" class="repeaterCourse repeaterData10L">
+                                                                <span id="rpResults_ctl03_lblCRN">36216</span></td>
+	
+                                                            <td id="rpResults_ctl03_cellCourse" class="repeaterCourse repeaterData10L">
+                                                                <span id="rpResults_ctl03_lblCNum">PHY 099</span></td>
+	
+                                                            <td id="rpResults_ctl03_cellTitle" colspan="5" class="repeaterCourse repeaterData50L">
+                                                                <span id="rpResults_ctl03_lblTitle">INTRO MTH METHODS WRKSHP</span></td>
+	
+                                                            <td class="repeaterCourse repeaterData10L">
+                                                                <span id="rpResults_ctl03_lblTerm">Fall 2018</span></td>
+                                                            <td class="repeaterCourse repeaterData10L">
+                                                                <span id="rpResults_ctl03_lblCredits">WRK</span></td>
+                                                            <td class="repeaterCourse repeaterData10L">
+                                                                <span id="rpResults_ctl03_lblStatus">Open</span></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td colspan="2" class="repeaterHead20R">Schedule:</td>
+                                                            <td colspan="8" class="repeaterData80L">
+                                                                
+                                                                        <table cellpadding="0" cellspacing="0" border="0" style="width: 80%;">
+                                                                            <tr>
+                                                                                <th class="table_head">Day</th>
+                                                                                <th class="table_head">Begin</th>
+                                                                                <th class="table_head">End</th>
+                                                                                <th class="table_head">Building</th>
+                                                                                <th class="table_head">Room</th>
+                                                                            </tr>
+                                                                        </table>
+                                                                    
+                                                                        <table cellpadding="0" cellspacing="0" border="0" style="width: 80%;">
+                                                                            <tr>
+                                                                                <td width="20%">
+                                                                                    <span id="rpResults_ctl03_rpSchedule_ctl01_lblDay">W</span>
+                                                                                </td>
+                                                                                <td width="20%">
+                                                                                    <span id="rpResults_ctl03_rpSchedule_ctl01_lblStartTime">1230</span>
+                                                                                </td>
+                                                                                <td width="20%">
+                                                                                    <span id="rpResults_ctl03_rpSchedule_ctl01_lblEndTime">1345</span>
+                                                                                </td>
+                                                                                <td width="20%">
+                                                                                    <span id="rpResults_ctl03_rpSchedule_ctl01_lblBuilding">B&amp;L</span>
+                                                                                </td>
+                                                                                <td width="20%">
+                                                                                    <span id="rpResults_ctl03_rpSchedule_ctl01_lblRoom">203H</span>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </table>
+                                                                    
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td colspan="2" class="repeaterHead20R">Enrollment:</td>
+                                                            <td id="rpResults_ctl03_colsectionenroll" class="repeaterData10L">
+                                                                <u>Section Enroll</u>     <br>
+                                                                <span id="rpResults_ctl03_lblSectionEnroll">0</span>
+                                                            </td>
+	
+                                                            <td id="rpResults_ctl03_colsectioncap" class="repeaterData10L">
+                                                                <u>Section Cap</u>     <br>
+                                                                <span id="rpResults_ctl03_lblSectionCap">30</span>
+                                                            </td>
+	
+                                                            
+                                                            
+                                                            <td class="repeaterData10L">
+                                                                
+                                                            </td>
+                                                            <td class="repeaterData10L"></td>
+                                                        </tr>
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        <tr id="rpResults_ctl03_rowbooksurl">
+		<td colspan="2" class="repeaterHead">Books</td>
+		<td colspan="8" class="repeaterData80L">
+                                                                <a id="rpResults_ctl03_HLCourseBookLink" href="https://securex.bncollege.com/webapp/wcs/stores/servlet/TBListView?cm_mmc=RI-_-744-_-A-_-1&amp;catalogId=10001&amp;storeId=27055&amp;langId=-1&amp;termMapping=Y&amp;courseXml=&lt;?xml%20version=%221.0%22%20encoding=%22UTF-8%22?&gt;&lt;textbookorder&gt;&lt;courses&gt;&lt;course%20dept=%22PHY%22%20num=%22099%22%20sect=%2236216%22%20term=%22FALL%202018%22%20/&gt;&lt;/courses&gt;&lt;/textbookorder&gt;" target="_new">Click to buy books for this course from the bookstore</a></td>
+	</tr>
+	
+                                                    </table>
