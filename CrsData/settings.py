@@ -1,3 +1,10 @@
+# @Author: DivineEnder
+# @Date:   2018-03-08 22:24:45
+# @Email:  danuta@u.rochester.edu
+# @Last modified by:   DivineEnder
+# @Last modified time: 2018-03-11 00:20:48
+
+
 # -*- coding: utf-8 -*-
 
 # Scrapy settings for CrsData project
@@ -13,7 +20,6 @@ BOT_NAME = 'CrsData'
 
 SPIDER_MODULES = ['CrsData.spiders']
 NEWSPIDER_MODULE = 'CrsData.spiders'
-
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'CrsData (+http://www.yourdomain.com)'
@@ -64,9 +70,9 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'CrsData.pipelines.CrsdataPipeline': 300,
-#}
+ITEM_PIPELINES = {
+   'CrsData.pipelines.CrsdataPipeline': 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
